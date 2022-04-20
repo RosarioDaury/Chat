@@ -86,7 +86,7 @@ hr{
   display: flex;
   flex-direction: row;
   box-sizing: border-box;
-  margin: .5rem auto;
+  margin: .2rem auto;
 }
 
 .form-chat > input[type="text"]{
